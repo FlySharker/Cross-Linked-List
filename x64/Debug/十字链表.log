@@ -1,0 +1,14 @@
+﻿  TestCrossList.cpp
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\十字链表\CrossList.h(120,30): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\十字链表\CrossList.h(81): message : 在编译 类 模板 成员函数“Status CrossList<int>::SetElem(int,int,const ElemType &)”时
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\十字链表\TestCrossList.cpp(23): message : 查看对正在编译的函数 模板 实例化“Status CrossList<int>::SetElem(int,int,const ElemType &)”的引用
+          with
+          [
+              ElemType=int
+          ]
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\十字链表\TestCrossList.cpp(9): message : 查看对正在编译的 类 模板 实例化“CrossList<int>”的引用
+  十字链表.vcxproj -> C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\十字链表\x64\Debug\十字链表.exe
